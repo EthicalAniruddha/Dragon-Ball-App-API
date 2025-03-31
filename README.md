@@ -32,7 +32,7 @@ Add ```-assets``` in ```pubspec.yaml``` as
     
 ## Demo
 
-https://github.com/EthicalAniruddha/Dragon-Ball-App-API/blob/main/demo.mp4
+[https://github.com/EthicalAniruddha/Dragon-Ball-App-API/blob/main/demo.mp4](https://github.com/user-attachments/assets/d4676ce3-b23f-4bec-a9e8-cbaf4018cfe9)
 
 
 ## License
