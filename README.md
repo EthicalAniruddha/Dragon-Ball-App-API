@@ -1,16 +1,41 @@
-# ball
 
-A new Flutter project.
+# Dragon Ball Z
 
-## Getting Started
+A flutter project to show Dragon Ball Z characters from API.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Download the .zip file
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Add ```lib``` folder in the newly created flutter project.
+
+
+Add the following dependencies in ```pubspec.yaml```
+```bash
+  lottie: ^3.3.1
+  google_fonts: ^6.2.1
+  path_provider: ^2.1.5
+  http: ^1.3.0
+  url_launcher: ^6.3.1
+  flutter_launcher_icons: ^0.14.3
+  rename_app: ^1.6.2
+```
+
+Add ```-assets``` in ```pubspec.yaml``` as
+```bash
+  assets:
+    - assets/lotties/
+    - assets/images/logo.png
+```
+
+    
+## Demo
+
+https://github.com/EthicalAniruddha/Dragon-Ball-App-API/blob/main/demo.mp4
+
+
+## License
+
+[The Unlicense](https://choosealicense.com/licenses/unlicense/)
+
